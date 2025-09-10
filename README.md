@@ -70,6 +70,7 @@ L1:      DEC DX
 DATA:    DB 09H, 05H, 06H, 0AH ; Array of data
 ```
 ## OUTPUT OF THE PROGRAM:
+![mpmcimage2](https://github.com/user-attachments/assets/b3b4c241-2b73-43e6-83f3-7bc2eb3f854c)
 
 ## RESULT
 
